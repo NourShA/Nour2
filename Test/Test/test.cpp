@@ -6,4 +6,5 @@ void main() {
 	printf("Hello 2");
 	printf("Hello 3");
 	printf("Hello 4");
+	printf("Hello 5");
 }
