@@ -9,4 +9,6 @@ void main() {
 	printf("Hello 5");
 	printf("Hello 6");
 	printf("Hello 8");
+	printf("After creating a new branch");
+}
 }
